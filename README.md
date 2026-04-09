@@ -9,7 +9,6 @@ Full-stack TypeScript builder. AWS, Stripe, React, CDK.
 | Project | Description |
 |---|---|
 | [Modern Human](https://modernhuman.zachtime.xyz) | Roguelike deckbuilder — compose yourself through cards |
-| [mempalace](https://github.com/zacnel909/mempalace) | The highest-scoring AI memory system ever benchmarked |
 | Cabra | Soccer-themed lane battler card game |
 | Pili | iOS mobile payments app on Stripe |
 
